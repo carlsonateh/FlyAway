@@ -4,7 +4,7 @@ Project & Developer Details
 
 Flyaway is an airline ticket booking portal that lets people book flights on their website. 
 
-This portal has been developed by Clovis Tikum 
+This portal has been developed by Carlson Ateh
 
 Sprints Planned & Tasks achieved 
 
